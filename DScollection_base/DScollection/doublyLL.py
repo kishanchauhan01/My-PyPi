@@ -219,7 +219,7 @@ class DoublyLL:
 
     def traverse(self):
         if self.is_empty():
-            print("Linked List ie empty")
+            print("Linked List is empty")
             return
         else:
             temp = self._head
@@ -233,7 +233,7 @@ class DoublyLL:
 
     def reverseTraverse(self):
         if self.is_empty():
-            print("Linked List ie empty")
+            print("Linked List is empty")
             return
         else:
             temp = self._tail
