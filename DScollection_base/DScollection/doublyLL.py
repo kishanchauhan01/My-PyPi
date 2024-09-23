@@ -115,18 +115,31 @@ class DoublyLL:
             print("List is empty")
 
         else:
-            self._head = self._head._next
-            self._head._prev = None
-            self._size -= 1
+            if len(self) == 1:
+                self._tail = None
+                self._head = None
+                self._size -= 1
+                print("Now list is empty")
+            else:
+                self._head = self._head._next
+                self._head._prev = None
+                self._size -= 1
 
     def deleteTail(self):
         if self.is_empty():
             print("List is empty")
 
         else:
-            self._tail = self._tail._prev
-            self._tail._next = None
-            self._size -= 1
+            if len(self) == 1:
+                self._tail = None
+                self._head = None
+                self._size -= 1
+                print("Now list is empty")
+                
+            else:
+                self._tail = self._tail._prev
+                self._tail._next = None
+                self._size -= 1
 
     def deleteAtPos(self, pos):
         if self.is_empty():
