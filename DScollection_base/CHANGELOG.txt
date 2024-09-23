@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-0.0.5 (10/09/2024)
+0.0.6 (23/09/2024)
 ------------------
 -Fifth Release
 -All bugs are fixed.

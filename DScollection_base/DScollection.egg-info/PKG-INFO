@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: DScollection
+Version: 0.0.6
+Summary: A basic implementation of some data structures
+Author: Kishan Chauhan
+Author-email: kishanchauhan2006.25@gmail.com
+Keywords: data structures stack linked list
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+
 # This is very simple implementaion of Data Structure like Stack and Singly Linked List
 
 * In Stack you can use many methods.
@@ -87,3 +101,11 @@
 ```
 
 # I will update this with all the data structure with ready to use, stay updated.
+
+Change Log
+==========
+
+0.0.6 (23/09/2024)
+------------------
+-Fifth Release
+-All bugs are fixed.

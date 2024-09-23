@@ -1,0 +1,14 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+DScollection/SinglyCircularLL.py
+DScollection/__init__.py
+DScollection/doublyLL.py
+DScollection/linkedList.py
+DScollection/stack.py
+DScollection.egg-info/PKG-INFO
+DScollection.egg-info/SOURCES.txt
+DScollection.egg-info/dependency_links.txt
+DScollection.egg-info/top_level.txt
