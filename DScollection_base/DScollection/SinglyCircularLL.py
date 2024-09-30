@@ -139,25 +139,3 @@ class SinglyCircularLL:
         else:
             print(self._tail._element)
 
-
-c = SinglyCircularLL()
-c.insertAtHead(1)
-c.insertAtHead(2)
-c.insertAtHead(3)
-c.insertAtHead(4)
-c.insertAtHead(5)
-c.traversse()
-c.deleteHead()
-print(len(c))
-c.traversse()
-c.insertAtPos(2, 85)
-c.traversse()
-c.deleteAtPos(3)
-
-# c.insertAtHead(2)
-# c.insertAtHead(3)
-# c.insertAtHead(4)
-# c.insertAtTail(10)
-c.traversse()
-c.get_head()
-c.get_tail()
