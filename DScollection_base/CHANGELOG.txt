@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-0.0.7 (23/09/2024)
+0.0.8 (23/09/2024)
 ------------------
--Seventh Release
--All bugs are fixed.
+-Eighth Release
+-Add updates.

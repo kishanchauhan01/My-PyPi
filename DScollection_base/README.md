@@ -1,5 +1,7 @@
 # This is very simple implementaion of Data Structure like Stack and Singly Linked List
 
+## Main Data Structures collections:- <br> Stack, Singly LinkedList, Doubly LinkedList, SinglyCirclular LinkedList, DoublyCircular LinkedList.
+
 * In Stack you can use many methods.
 
     ```python
